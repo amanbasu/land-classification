@@ -5,9 +5,9 @@ There are multiple satellites that capture the data about the amount of light in
 
 # Column Description
 
-* Numeric columns *X1 to X6 and I1 to I6* define characteristics about the land piece
-* *ClusterID* is a categorical column which clusters a type of land together
-* *target *is the output categorical column which needs to be found for the test dataset
+* Numeric columns <b>X1 to X6 and I1 to I6</b> define characteristics about the land piece
+* <b>ClusterID</b> is a categorical column which clusters a type of land together
+* <b>target</b> is the output categorical column which needs to be found for the test dataset
     * 1 = Green Land
     * 2 = Water
     * 3 = Barren Land
